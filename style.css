@@ -1,0 +1,87 @@
+
+a.About {
+    text-decoration: none;
+    border: 0.2px solid #000;
+    color: rgb(255, 255, 255);
+    background: #000000;
+    padding: 5px;
+    font-size:30px;
+    border-radius: 1px;
+    position:absolute;
+    top:20%;
+    left:13%;
+    box-shadow: 0 0 7px 0 yellow,
+                    0 0 7px 0 yellow,
+                    0 0 9px 0 yellow inset;
+    
+  
+
+    
+  }
+a.TOC {
+    text-decoration: none;
+    border: 0.2px solid #000;
+    color: rgb(255, 255, 255);
+    background: #000000;
+    padding: 5px;
+    font-size:30px;
+    border-radius: 1px;
+    position:absolute;
+    top:20%;
+    left:46%;
+    box-shadow: 0 0 7px 0 yellow,
+                    0 0 7px 0 yellow,
+                    0 0 9px 0 yellow inset;
+  
+
+    
+  }
+
+a.Re {
+    text-decoration: none;
+    border: 0.2px solid #000;
+    color: rgb(255, 255, 255);
+    background: #000000;
+    padding: 5px;
+    font-size:30px;
+    border-radius: 1px;
+    position:absolute;
+    top:20%;
+    left:79%;
+    box-shadow: 0 0 7px 0 yellow,
+                    0 0 7px 0 yellow,
+                    0 0 9px 0 yellow inset;
+  
+
+    
+  }
+
+
+
+
+
+
+h1 {
+    color:rgb(255,255,0);
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Courier New', monospace;
+    
+    
+}
+
+p {
+  color:rgb(255,255,255);
+  font-size:20px;
+  position:absolute;
+  top:350px;
+  left:40%;
+  
+}
+
+
+body {
+  background-image: url("paper.gif");
+  background-repeat: no-repeat;
+  background-size:cover;
+}
